@@ -1,0 +1,16 @@
+{
+  "name": "Legal Documents & Affidavit Services",
+  "short_name": "Legal Docs",
+  "description": "Trusted legal document & affidavit services in Gandhinagar, Gujarat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a2540",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

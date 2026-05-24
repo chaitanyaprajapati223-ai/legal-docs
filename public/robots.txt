@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://legaldocsgnr.netlify.app/sitemap.xml
